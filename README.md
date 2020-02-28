@@ -13,7 +13,7 @@ There is nothing to install :D
 ## Features
 * The Webserver is very simple based on HTTP 1.0 and works only with GET request.
   
-### Informations
+### Information
 * The Code is self-explanatory commented
 
 ### The following is still being implemented
